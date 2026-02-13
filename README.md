@@ -1,3 +1,5 @@
+Developed with Opus 4.6 
+
 # 🏀 rust-tui-ball-bounce
 
 A terminal-based bouncing ball simulation built with Rust, featuring real-time physics, ball-to-ball elastic collisions, and live telemetry graphs — all rendered in your terminal using [Ratatui](https://github.com/ratatui/ratatui) and [Crossterm](https://github.com/crossterm-rs/crossterm).
